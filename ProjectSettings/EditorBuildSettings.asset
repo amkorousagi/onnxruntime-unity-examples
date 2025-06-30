@@ -6,25 +6,43 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Index/Index.unity
-    guid: 2475e5c6d99f1481d8c509ae3d14a56b
+    path: Assets/Samples/MobileOne/Scene/StartScene.unity
+    guid: 7481dd1d810aa4e9299016ff7b6c14f3
   - enabled: 1
-    path: Assets/Samples/MobileOne/MobileOne.unity
-    guid: 68778029a7c6d4c7bbe22540a78daf2c
+    path: Assets/Samples/MobileOne/Scene/LandmarkGaze_Onnxruntime_Async.unity
+    guid: 6a1f4bf1e18264bc1ba825079376b5f3
   - enabled: 1
-    path: Assets/Samples/Yolox/Yolox.unity
-    guid: aa15b889fb4b3449b927fc9f3776baa7
+    path: Assets/Samples/MobileOne/Scene/LandmarkGaze_Onnxruntime_Sync.unity
+    guid: 58226a15ae1244475bf2fe6b0d8389d5
   - enabled: 1
-    path: Assets/Samples/NanoSAM/NanoSAM.unity
-    guid: 612b16ace0d8f482b97be4061eb2da63
+    path: Assets/Samples/MobileOne/Scene/LandmarkGaze_Sentis_Async.unity
+    guid: e0a629469dc804b1ebace6256e90c401
   - enabled: 1
-    path: Assets/Samples/Yolo11Seg/Yolo11Seg.unity
-    guid: 021d20c276bea483a93e325e0d4c25ff
+    path: Assets/Samples/MobileOne/Scene/LandmarkGaze_Sentis_Sync.unity
+    guid: 43d09e89acc1043018dca14aae2db214
   - enabled: 1
-    path: Assets/Samples/UnitTestAdd/UnitTestAdd.unity
-    guid: e02697251b4934c738c0bff99dbadb84
+    path: Assets/Samples/MobileOne/Scene/Pose_Onnxruntime_Async.unity
+    guid: 1ff409c5435bd40988e3aff04fba5362
   - enabled: 1
-    path: Assets/Samples/Phi4/Phi4.unity
-    guid: e39f193bb3db14a1cbfcf61e4e3f1dd5
+    path: Assets/Samples/MobileOne/Scene/Pose_Onnxruntime_Sync.unity
+    guid: 2337ce5e606f74519a33a48378efe14d
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/Pose_Sentis_Async.unity
+    guid: a41acb8929278447d9f649bf9ec3d0de
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/Pose_Sentis_Sync.unity
+    guid: 1cc4e40c2d011445cb74550e75c78a71
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/RFB_Onnxruntime_Async.unity
+    guid: 5272b58b83dfc45d986cfec08d0e8422
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/RFB_Onnxruntime_Sync.unity
+    guid: ff41ccdf4a48c43a984cf88b878f19a2
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/RFB_Sentis_Async.unity
+    guid: 0f1b970d8f8774d408e8b477ee05e78c
+  - enabled: 1
+    path: Assets/Samples/MobileOne/Scene/RFB_Sentis_Sync.unity
+    guid: 6169be5630fa14633b7cd4faae61a986
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
